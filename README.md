@@ -1,5 +1,7 @@
 # Class field declarations for JavaScript
 
+![Stage 3](https://badges.aleen42.com/src/tc39_4.svg)
+
 Daniel Ehrenberg, Jeff Morrison
 
 [Stage 3](https://tc39.es/process-document/)
